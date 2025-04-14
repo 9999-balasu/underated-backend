@@ -1,5 +1,11 @@
 
 
+ 2 APIs to the frontend team:
+
+Feature	Method	Endpoint
+Like a Movie	POST	/api/movies/like
+Rate a Movie	POST	/api/movies/rate
+
 
   Movie Like & Rating API
 This small Express.js backend project
